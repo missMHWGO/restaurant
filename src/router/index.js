@@ -14,7 +14,9 @@ export default new Router({
       name: 'main',
       component: Main,
       children: [
-        { path: 'flavor', component: Flavor }
+        { path: 'flavor', component: Flavor },
+        { path: 'detail', component: detail },
+        { path: 'comment', component: comment }
       ]
     }
   ]
