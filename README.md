@@ -1,5 +1,5 @@
 # restaurant
-> a h5 page thar can overview the menu of the restaurant and recommend recipes base on user
+> a h5 page thar can overview the menu of the restaurant and recommend recipes base on user.
 
 ## Build Setup
 
